@@ -13,6 +13,10 @@
 | 2021-01-22   | Deaddrop | service toe receive melt | 4GB |
 | 2021-01-22   | Deaddrop | service toe receive melt | 4GB |
 | 2021-11-25   | testtest | pledge account forget twenty |  |
+| 2021-11-14   | Shenzhen Host | pledge account forget twenty | 16GB |
+| 2021-10-26   | LocalHost | slot coin offer kitchen | 512MB |
+| 2021-19-09   | #Hypi | oil physical reward shrug | 16GB |
+
 
 
 
