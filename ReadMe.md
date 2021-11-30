@@ -6,4 +6,3 @@
 * Check out DeadDrops on the Where39 map: https://where39.com 
 * For more info and the full List of Aram Bartholl's Dead Drops see https://deaddrops.com/db
 
-Have Fun staying curious or HFSP ;)
